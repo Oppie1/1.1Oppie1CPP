@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\atind\OneDrive\Desktop\1_AdamCode-AlppaCentauri_O\1.PracticeWithAI\Oppie1\1.22OppieStockMrktSim\1.22OppieStockMrktSim\main.cpp(10,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\atind\OneDrive\Desktop\1_AdamCode-AlppaCentauri_O\1.PracticeWithAI\Oppie1\1.22OppieStockMrktSim\1.22OppieStockMrktSim\main.cpp(23,9): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  1.22OppieStockMrktSim.vcxproj -> C:\Users\atind\OneDrive\Desktop\1_AdamCode-AlppaCentauri_O\1.PracticeWithAI\Oppie1\1.22OppieStockMrktSim\x64\Debug\1.22OppieStockMrktSim.exe
