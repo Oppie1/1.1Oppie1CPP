@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36908.2 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1.57Oppie1FunctionTemplates", "1.57Oppie1FunctionTemplates\1.57Oppie1FunctionTemplates.vcxproj", "{847CBCD6-B561-49D7-ACF4-7027951A130A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{847CBCD6-B561-49D7-ACF4-7027951A130A}.Debug|x64.ActiveCfg = Debug|x64
+		{847CBCD6-B561-49D7-ACF4-7027951A130A}.Debug|x64.Build.0 = Debug|x64
+		{847CBCD6-B561-49D7-ACF4-7027951A130A}.Debug|x86.ActiveCfg = Debug|Win32
+		{847CBCD6-B561-49D7-ACF4-7027951A130A}.Debug|x86.Build.0 = Debug|Win32
+		{847CBCD6-B561-49D7-ACF4-7027951A130A}.Release|x64.ActiveCfg = Release|x64
+		{847CBCD6-B561-49D7-ACF4-7027951A130A}.Release|x64.Build.0 = Release|x64
+		{847CBCD6-B561-49D7-ACF4-7027951A130A}.Release|x86.ActiveCfg = Release|Win32
+		{847CBCD6-B561-49D7-ACF4-7027951A130A}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A18AA06-0E38-47C5-9995-54F5341F31C2}
+	EndGlobalSection
+EndGlobal
