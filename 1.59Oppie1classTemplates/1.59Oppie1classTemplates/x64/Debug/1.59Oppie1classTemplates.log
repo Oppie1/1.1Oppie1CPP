@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\atind\source\repos\1.1Oppie1CPP\1.59Oppie1classTemplates\1.59Oppie1classTemplates\main.cpp(52,17): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+C:\Users\atind\source\repos\1.1Oppie1CPP\1.59Oppie1classTemplates\1.59Oppie1classTemplates\main.cpp(52,17): warning C4244:         with
+C:\Users\atind\source\repos\1.1Oppie1CPP\1.59Oppie1classTemplates\1.59Oppie1classTemplates\main.cpp(52,17): warning C4244:         [
+C:\Users\atind\source\repos\1.1Oppie1CPP\1.59Oppie1classTemplates\1.59Oppie1classTemplates\main.cpp(52,17): warning C4244:             T=int
+C:\Users\atind\source\repos\1.1Oppie1CPP\1.59Oppie1classTemplates\1.59Oppie1classTemplates\main.cpp(52,17): warning C4244:         ]
+  1.59Oppie1classTemplates.vcxproj -> C:\Users\atind\source\repos\1.1Oppie1CPP\1.59Oppie1classTemplates\x64\Debug\1.59Oppie1classTemplates.exe
