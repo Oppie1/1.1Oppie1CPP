@@ -1,3 +1,0 @@
-﻿  main.cpp
-MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
-C:\Users\atind\source\repos\1.1Oppie1CPP\2OppieCpp\2.1OppieHeloWrldJustNotes\x64\Debug\2.1OppieHeloWrldJustNotes.exe : fatal error LNK1120: 1 unresolved externals
