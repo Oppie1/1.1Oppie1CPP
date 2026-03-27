@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\atind\source\repos\1.1Oppie1CPP\2.0OppieCPPJusNotes\1.11OppieIntroClasNobjsJNts\1.11OppieIntroClasNobjsJNts\main.cpp(76,2): error C2065: 'AdamClass': undeclared identifier
+C:\Users\atind\source\repos\1.1Oppie1CPP\2.0OppieCPPJusNotes\1.11OppieIntroClasNobjsJNts\1.11OppieIntroClasNobjsJNts\main.cpp(76,12): error C2146: syntax error: missing ';' before identifier 'object3'
+C:\Users\atind\source\repos\1.1Oppie1CPP\2.0OppieCPPJusNotes\1.11OppieIntroClasNobjsJNts\1.11OppieIntroClasNobjsJNts\main.cpp(76,12): error C2065: 'object3': undeclared identifier
+C:\Users\atind\source\repos\1.1Oppie1CPP\2.0OppieCPPJusNotes\1.11OppieIntroClasNobjsJNts\1.11OppieIntroClasNobjsJNts\main.cpp(77,2): error C2065: 'object3': undeclared identifier
+C:\Users\atind\source\repos\1.1Oppie1CPP\2.0OppieCPPJusNotes\1.11OppieIntroClasNobjsJNts\1.11OppieIntroClasNobjsJNts\main.cpp(78,10): error C2065: 'object3': undeclared identifier
