@@ -1,0 +1,9 @@
+chair 0  
+ninja -54 
+fruit 43 
+shoe 0 
+pencil 0 
+candy 87 
+soda 32 
+bacteria -44 
+virus -99
