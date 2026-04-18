@@ -16,7 +16,7 @@ int main() {
 	//CODE:
 	
 	
-	//Add cout statement that to call the size function on the emptyVector (object)
+	//Add cout statement that to call the size() function on the emptyVector (object)
 	//CODE:
 	
 
