@@ -28,7 +28,7 @@ int main() {
 	//Here we have 5 vector arrays. A key point: We can operate on the same array multiple times manipulating it with different
 	//functions and actions the will effect how many elements it has. It's size is dynamic. Can adjust number of elements/indexes 
 
-	//Instantiate a vector named happyVector that contains 3 elements {} 4,5,6. Elements are of type int -> vector class <type>
+	//Instantiate a int vector named happyVector that contains 3 elements {} 4,5,6. Elements are of type int -> vector class <type>
 	//CODE:
 	
 
